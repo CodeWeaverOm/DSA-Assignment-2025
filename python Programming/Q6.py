@@ -1,0 +1,5 @@
+print("Sahil Tapas")
+num = int(input("Enter a number: "))
+num_abs = abs(num)
+num_digits = len(str(num_abs))
+print(f"The number of digits in {num} is: {num_digits}")

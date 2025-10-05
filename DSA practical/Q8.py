@@ -1,6 +1,6 @@
 #Que8. Write a python code to find the average / mean of array elements.
-print("Submitted By : OM NIMMALWAR")
-print("Roll No: MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [1,2,3,4,4,3,2,2,3]
 sum = 0
 count = 0

@@ -1,6 +1,6 @@
 #Que7. Write a python code to count frequency of each element in the array. 
-print("Submitted By : OM NIMMALWAR")
-print("Roll Call : MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [1,2,3,4,5,6,3,4,2,3,2,2,2,1,4,5,3,8,7]
 b = []
 count = 0
