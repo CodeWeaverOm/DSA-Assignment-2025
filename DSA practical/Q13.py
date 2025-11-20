@@ -1,6 +1,6 @@
 #Que13. Write a python code to generate Fibonacci series up to 5 number using array elements
-print("Submitted By : OM NIMMALWAR")
-print("Roll No: MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [1,2] 
 print("Fibinacci Start from :")
 print(a)

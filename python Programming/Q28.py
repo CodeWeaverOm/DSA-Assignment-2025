@@ -1,5 +1,5 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 def unique(lst):
     return list(set(lst))
-
+print("Unique Elements Is : ")
 print(unique([1, 2, 2, 3, 4, 4, 5]))

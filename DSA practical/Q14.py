@@ -1,6 +1,6 @@
 #Que14. Write a program to reverse the array 
-print("Submitted By : OM NIMMALWAR")
-print("Roll No: MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [2,3,4,5,6,7]
 b = []
 print("Array Before Reverse :")

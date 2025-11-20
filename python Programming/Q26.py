@@ -1,4 +1,4 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 rows = int(input("Enter number of rows: "))
 cols = int(input("Enter number of columns: "))
 

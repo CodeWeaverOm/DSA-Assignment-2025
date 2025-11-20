@@ -1,4 +1,3 @@
-print("Om Nimmalwar")
 lst = [3, 1, 4, 1, 5, 9]
 
 print(len(lst))       # 1. Length

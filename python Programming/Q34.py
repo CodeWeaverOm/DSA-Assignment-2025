@@ -1,4 +1,4 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 def is_prime(n):
     if n < 2:
         return False

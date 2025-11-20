@@ -1,8 +1,8 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 people = []
 n = int(input("Enter number of entries: "))
 
-for _ in range(n):
+for i in range(n):   # using i instead of _
     name, age, height = input("Enter name, age, height: ").split(',')
     people.append((name, int(age), int(height)))
 

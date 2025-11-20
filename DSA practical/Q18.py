@@ -1,6 +1,6 @@
 #Que18. Write a python code for matrix multiplication 
-print("Submitted By : OM NIMMALWAR")
-print("Roll No: MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [[5, 9], [4, 3]]
 b = [[3, 6], [3, 2]]
 c = []

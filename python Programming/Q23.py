@@ -1,4 +1,4 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 numbers = [10, 20, 10, 40, 50, 60, 70]
 target = 50
 

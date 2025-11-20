@@ -1,4 +1,3 @@
-print("Om Nimmalwar")
 d = {'b': 3, 'a': 1, 'c': 2}
 
 # Sort by key

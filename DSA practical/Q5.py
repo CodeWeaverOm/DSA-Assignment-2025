@@ -1,6 +1,6 @@
 #Que5. Write a program to delete element from array 
-print("Submitted By : OM NIMMALWAR")
-print("Roll No : MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll Call : MC25082")
 
 a = [1, 2, 3, 4, 5, 6, 7]
 print("Before deleting :")

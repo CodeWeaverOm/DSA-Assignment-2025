@@ -1,4 +1,4 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 text = input("Enter text: ")
 words = text.split()
 freq = {}

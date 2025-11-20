@@ -1,4 +1,3 @@
-print("Om Nimmalwar")
 t = (10, 20, 30, 20, 40)
 
 print(len(t))         # 1. Length

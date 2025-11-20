@@ -1,4 +1,3 @@
-print("Om Nimmalwar")
 s = input("Enter a string of length 10: ")
 
 if len(s) != 10:

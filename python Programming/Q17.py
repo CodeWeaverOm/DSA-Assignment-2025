@@ -1,6 +1,10 @@
-print("Om Nimmalwar")
 s = input("Enter string: ")
 count = {}
+
 for ch in s:
-    count[ch] = count.get(ch, 0) + 1
+    if ch in count:
+        count[ch] += 1
+    else:
+        count[ch] = 1
+
 print(count)

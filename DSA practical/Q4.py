@@ -1,6 +1,6 @@
 #Que 4. Write a program to count elements in array 
-print("Submitted By : OM NIMMALWAR")
-print("Roll No : MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll Call : MC25082")
 a = [1,2,3,4,5,6,8,2]
 count = 0
 print("Array:")

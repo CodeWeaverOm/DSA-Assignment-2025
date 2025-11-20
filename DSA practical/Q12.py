@@ -1,6 +1,6 @@
 #Que12. Write a python code to find the maximum and minimum element.
-print("Submitted By : OM NIMMALWAR")
-print("Roll No: MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [19,6,4,79,5,56]
 max = 0
 min = a[0]

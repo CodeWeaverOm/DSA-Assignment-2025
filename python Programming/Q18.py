@@ -1,3 +1,9 @@
-print("Om Nimmalwar")
 lst = [10, 15, 20, 25, 30]
-print(all(10 <= x <= 30 for x in lst))  # True if all in range
+in_range = True
+
+for x in lst:
+    if x < 10 or x > 30:
+        in_range = False
+        break
+
+print(in_range)

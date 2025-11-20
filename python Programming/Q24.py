@@ -1,4 +1,4 @@
-print("Om Nimmalwar")
+print("Sahil Tapas")
 name = input("Enter name: ")
 age = int(input("Enter age: "))
 marks = float(input("Enter marks (%): "))

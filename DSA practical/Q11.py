@@ -1,6 +1,6 @@
 #11. Write a python code to find duplicate elements in an array 
-print("Submitted By : OM NIMMALWAR")
-print("Roll No: MC25058")
+print("Submitted By : SAHIL TAPAS")
+print("Roll NO : MC25082")
 a = [1,2,3,4,4,5,3,2,7,8,9]
 print("Array:")
 print(a)

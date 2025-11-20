@@ -1,4 +1,3 @@
-print("Om Nimmalwar")
 string = "Hello World"
 
 print(string.upper())
